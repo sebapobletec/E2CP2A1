@@ -1,0 +1,22 @@
+.mayuscula{
+  text-transform: uppercase;
+}
+.flotarizquierda{
+  float: left;
+}
+
+.flotarderecha{
+  float:right;
+}
+
+#logolatambarra{
+  height: 80px;
+}
+
+.textoblanco{
+  color: white;
+}
+
+#seccion1{
+  background-image:url("images/bg.jpeg");
+}
