@@ -1,0 +1,93 @@
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
+
+.mayuscula{
+  text-transform: uppercase;
+}
+.flotarizquierda{
+  float: left;
+}
+
+.flotarderecha{
+  float:right;
+}
+
+
+.textoblanco{
+  color: white;
+}
+
+.centrartexto{
+  text-align: center;
+}
+
+.sinsubrayar{
+  text-decoration: none;
+}
+
+#logolatambarra{
+  height: 60px;
+  margin-left: 200px;
+}
+
+#happypeople{
+
+  width: 300px;
+  margin: auto;
+  display: block;
+
+}
+
+#seccion1{
+  background-image:url("images/bg.jpeg");
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  }
+
+#seccion3{
+  background-color: #FAFAFA;
+  border-top: solid 1px #CBCBCB;
+  border-bottom: solid 1px #CBCBCB;
+  height: auto;
+}
+
+#seccion5{
+  clear: both;
+  background-color: black;
+  height: 90px;
+  }
+
+.botonazul1{
+  background-color: #336CB8;
+  color: white;
+  border-radius: 10px;
+  padding: 14px;
+  margin-left: 800px;
+}
+
+.botonazul2{
+  background-color: #336CB8;
+  color: white;
+  border-radius: 10px;
+  padding: 14px;
+  width: 100px;
+
+}
+
+.botonverde{
+  background-color: #00C860;
+  color: white;
+  border-radius: 10px;
+  padding: 14px;
+}
+
+
+h4 {
+  font-weight: 500;
+}
+
+li{
+display: inline;}
